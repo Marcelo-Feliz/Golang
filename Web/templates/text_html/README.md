@@ -1,0 +1,1 @@
+Diferença de segurança entre utilização de import text vs import HTML
