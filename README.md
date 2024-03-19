@@ -1,2 +1,3 @@
-# Golang
-Exercicios e trabalhos focados em Web dev
+# Golang training
+exercices done with golang
+and web development udemy course
