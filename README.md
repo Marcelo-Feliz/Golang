@@ -1,7 +1,7 @@
 # Golang training
 
 
-exercices done with golang
+exercises done with golang
 
 
 and web development udemy course
